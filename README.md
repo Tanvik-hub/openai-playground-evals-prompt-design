@@ -12,7 +12,8 @@ That works for experiments.
 But for real AI systems, especially **agents, RAG systems, and MCP-based applications**, this approach is not enough.
 
 Recently, I spent some time properly learning **OpenAI Playground and Evals**, and it changed how I think about prompt development.
-<img width="1600" height="748" alt="image" src="https://github.com/user-attachments/assets/2f1278d4-0358-462d-8369-ab2f44a38e83" />
+<img width="598" height="1152" alt="image" src="https://github.com/user-attachments/assets/dd7813c9-67e0-4c1a-9177-2b28202a965f" />
+
 
 ---
 
