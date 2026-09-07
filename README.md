@@ -12,10 +12,14 @@ That works for experiments.
 But for real AI systems, especially **agents, RAG systems, and MCP-based applications**, this approach is not enough.
 
 Recently, I spent some time properly learning **OpenAI Playground and Evals**, and it changed how I think about prompt development.
+<img width="1600" height="748" alt="image" src="https://github.com/user-attachments/assets/2f1278d4-0358-462d-8369-ab2f44a38e83" />
 
 ---
 
 ## 🧪 Playground is more than just prompt testing
+<img width="1527" height="816" alt="image" src="https://github.com/user-attachments/assets/37d9e164-fddf-4096-a2bc-0b357350f284" />
+<img width="1527" height="816" alt="image" src="https://github.com/user-attachments/assets/d509fc50-edf6-4523-9168-a458461c7d53" />
+
 
 Earlier, I thought Playground was mainly a place where we could try prompts with different models.
 
@@ -47,6 +51,8 @@ I can test all of this directly in Playground before wiring it into FastAPI.
 ---
 
 ## ⚖️ Compare prompts instead of guessing
+<img width="1527" height="816" alt="image" src="https://github.com/user-attachments/assets/26e4df7f-76d3-491b-8660-ae8d880904de" />
+
 
 One feature I found very useful is **Compare**.
 
@@ -130,6 +136,8 @@ That distinction is very useful when building agents.
 ---
 
 ## 📊 The biggest learning: Evals
+
+<img width="1600" height="748" alt="image" src="https://github.com/user-attachments/assets/766e455f-7bba-456d-8085-542a59eaec5b" />
 
 The most important thing I learned was **evals**.
 
