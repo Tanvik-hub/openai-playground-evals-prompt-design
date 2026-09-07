@@ -1,0 +1,10 @@
+{"user_query":"What were my sales this month?","expected_intent":"sales"}
+{"user_query":"Show me revenue for August","expected_intent":"sales"}
+{"user_query":"How many campaigns are active today?","expected_intent":"campaign"}
+{"user_query":"Which campaign performed best?","expected_intent":"campaign"}
+{"user_query":"How many loyal customers do I have?","expected_intent":"customer"}
+{"user_query":"Which customers are at risk of leaving?","expected_intent":"customer"}
+{"user_query":"Tell me a joke","expected_intent":"unknown"}
+{"user_query":"What is the capital of Japan?","expected_intent":"unknown"}
+{"user_query":"How is my business doing?","expected_intent":"unknown"}
+{"user_query":"Show me something interesting","expected_intent":"unknown"}
